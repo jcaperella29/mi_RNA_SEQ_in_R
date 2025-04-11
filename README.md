@@ -21,6 +21,6 @@ Requirements
 R packages: DESeq2, ggplot2, dplyr, randomForest, clusterProfiler, org.Hs.eg.db
 
 Usage
-source("mirna_seq_script.R")
+source("mi_rna_seq.R")
 
 
